@@ -2,6 +2,16 @@
 
 An Explainable Retrieval-Augmented Generation (RAG) system that combines **Vector Search** and **Knowledge Graphs** to provide transparent, sourced answers about EU Environmental Policy (Green Deal).
 
+## 📸 Screenshots
+
+### 1. Home Page & Initialization
+*The application interface where you configure the database and initialize the system.*
+![Home Page](docs/images/home page.png)
+
+### 2. Execution & Results
+*The system answering a question with hybrid retrieval, showing the answer, explanation, and citations.*
+![Execution Result](docs/images/execution.png)
+
 ## 🚀 Features
 - **Hybrid Search**: Combines semantic search (embeddings) with structured graph queries (Neo4j).
 - **Explainability**: Every answer includes a reasoning path and specific text citations.
