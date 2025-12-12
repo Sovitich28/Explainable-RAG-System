@@ -6,11 +6,11 @@ An Explainable Retrieval-Augmented Generation (RAG) system that combines **Vecto
 
 ### 1. Home Page & Initialization
 *The application interface where you configure the database and initialize the system.*
-![Home Page](docs/images/home page.png)
+![Home Page](docs\images\execution.PNG)
 
 ### 2. Execution & Results
 *The system answering a question with hybrid retrieval, showing the answer, explanation, and citations.*
-![Execution Result](docs/images/execution.png)
+![Execution Result](docs\images\execution.PNG)
 
 ## 🚀 Features
 - **Hybrid Search**: Combines semantic search (embeddings) with structured graph queries (Neo4j).
