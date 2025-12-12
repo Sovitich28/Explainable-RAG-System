@@ -1,0 +1,45 @@
+# European Green Deal - Key Information
+
+## The European Green Deal Communication (2019)
+
+The European Green Deal is a comprehensive policy framework presented by the European Commission in December 2019. It represents Europe's roadmap for making the EU's economy sustainable by turning climate and environmental challenges into opportunities across all policy areas.
+
+The Green Deal aims to transform the EU into a modern, resource-efficient, and competitive economy. By 2050, the EU commits to achieving net-zero greenhouse gas emissions. This ambitious goal requires significant changes across multiple sectors including energy, transport, agriculture, and industry.
+
+A central component of the Green Deal is the transformation of the energy system. The EU has set a binding target to achieve at least 40% of energy from renewable sources by 2030, as part of the Fit for 55 package. This target was later increased to 42.5% with an aspirational goal of 45% under the revised Renewable Energy Directive (RED III).
+
+## Renewable Energy Directive III (RED III)
+
+The Renewable Energy Directive III, adopted in 2023, is the primary legislative instrument implementing the EU's renewable energy targets. RED III mandates that member states collectively achieve at least 42.5% renewable energy in the EU's final energy consumption by 2030.
+
+RED III introduces sector-specific targets and obligations. For the transport sector, member states must ensure that renewable energy accounts for at least 29% of final energy consumption by 2030. The directive also promotes the use of renewable hydrogen and advanced biofuels.
+
+The directive applies to all EU member states, including France, Germany, Spain, Italy, and Poland. Each country must develop national energy and climate plans (NECPs) outlining how they will contribute to the collective EU target.
+
+## Impact on Renewable Energy Sources
+
+The Green Deal and RED III significantly promote various renewable energy sources. Solar energy is identified as a key priority, with initiatives to double solar photovoltaic capacity by 2025. Wind energy, both onshore and offshore, is also heavily promoted, with offshore wind capacity expected to reach 300 GW by 2050.
+
+Hydroelectric power continues to play an important role, particularly in countries like Austria and Sweden. Biomass and biogas are promoted with strict sustainability criteria to ensure environmental integrity.
+
+## Country-Specific Implementation
+
+Germany has committed to achieving 80% renewable electricity by 2030, exceeding the EU-wide target. The country is investing heavily in offshore wind energy in the North Sea and Baltic Sea.
+
+France is focusing on solar energy expansion and offshore wind development, with plans to install 40 GW of offshore wind capacity by 2050. The country aims to reduce its reliance on nuclear energy while increasing renewables.
+
+Spain is leveraging its geographical advantages to become a leader in solar energy, with plans to reach 74% renewable electricity by 2030. The country is also developing green hydrogen infrastructure.
+
+## Sectoral Impacts
+
+The transport sector faces significant transformation under the Green Deal. The directive mandates increased use of renewable fuels, electrification of vehicles, and development of charging infrastructure. By 2035, all new cars sold in the EU must be zero-emission vehicles.
+
+The industrial sector must reduce emissions through energy efficiency improvements and adoption of renewable energy. Energy-intensive industries like steel and cement are required to transition to green hydrogen and renewable electricity.
+
+The buildings sector is targeted through the Energy Performance of Buildings Directive, requiring all new buildings to be zero-emission by 2030 and existing buildings to undergo deep renovations.
+
+## Fit for 55 Package
+
+The Fit for 55 package, presented in July 2021, is a comprehensive set of legislative proposals to align EU policies with the 2030 climate target of reducing greenhouse gas emissions by at least 55% compared to 1990 levels. This package includes revisions to the Renewable Energy Directive, Energy Efficiency Directive, and the EU Emissions Trading System.
+
+The package mandates that renewable energy must constitute at least 40% of the energy mix by 2030, with specific sub-targets for transport, heating and cooling, and industry sectors.
